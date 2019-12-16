@@ -9,7 +9,6 @@
 hs_err_pid*
 
 /build
-/node_modules
 
 # Built application files
 *.ap_
